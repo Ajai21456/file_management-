@@ -5,48 +5,46 @@ A secure and efficient Online File Management System that allows users to upload
 Features
 
 📤 Screenshot's link :(https://drive.google.com/drive/folders/1ZIE5lCR9Z1l-bUzUdCFJ2K9eZnL_t-aF)
+
 📂 Create and manage folders
+
 🔍 Search files quickly
+
 🗑️ Delete and restore files (Trash system)
+
 🔐 User authentication & authorization
-👥 Role-based access control (Admin/User)
+
+👥 Role-based access control 
+(Admin/User)
+
 🔗 File sharing with secure links
-☁️ Cloud storage support (if integrated)
+
+☁️ Cloud storage support (if 
+integrated)
+
 📊 Storage usage tracking
+
 📱 Responsive UI (mobile & desktop friendly)
 
 🛠️ Tech Stack
+
 Frontend:
 HTML5, CSS3, JavaScript
 React.js / Angular (if used)
+
 Backend:
 Node.js / Express.js / Django / Spring Boot
+
 Database:
 MongoDB / MySQL / PostgreSQL
+
 Storage:
 Local Storage / AWS S3 / Firebase Storage
+
 Authentication:
 JWT / OAuth2 / Session-based auth
 
 
-📁 Project Structure
-
-online-file-management-system/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│
-├── uploads/
-├── config/
-├── README.md
-└── package.json
 
 ⚙️ Installation & Setup
 
@@ -85,5 +83,7 @@ Mobile app integration
 👨‍💻 Author
 Ajai C
 MSc Computer Science
+
 GitHub: https://github.com/Ajai21456
+
 LinkedIn: https://www.linkedin.com/in/ajai-c

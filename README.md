@@ -28,22 +28,9 @@ integrated)
 
 🛠️ Tech Stack
 
-Frontend:
-HTML5, CSS3, JavaScript
-React.js / Angular (if used)
+HTML | CSS | Tailwind CSS | JavaScript |
 
-Backend:
-Node.js / Express.js / Django / Spring Boot
-
-Database:
-MongoDB / MySQL / PostgreSQL
-
-Storage:
-Local Storage / AWS S3 / Firebase Storage
-
-Authentication:
-JWT / OAuth2 / Session-based auth
-
+React.js | PostgreSQL | Appwrite | Python
 
 
 ⚙️ Installation & Setup

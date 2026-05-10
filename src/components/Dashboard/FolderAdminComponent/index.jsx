@@ -7,7 +7,7 @@ import { useParams } from 'react-router-dom';
 import {
   getAdminFiles,
   getAdminFolders,
-} from '../../../redux/actionCreators/filefoldersActionCreators.js';
+} from '../../../redux/actioncreators/filefoldersActionCreators.js';
 import SubNav from '../SubNav.js/index.jsx';
 
 const FolderAdminComponent = () => {

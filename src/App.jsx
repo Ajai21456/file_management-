@@ -4,7 +4,7 @@ import { ToastContainer } from "react-toastify";
 
 import Register from "./components/authentication/Register";
 import Login from "./components/authentication/Login";
-import NavbarComponent from "./components/Navbar";
+import NavBarComponent from "./components/NavBar";
 import Dashboard from "./components/Dashboard";
 
 import "./App.css";

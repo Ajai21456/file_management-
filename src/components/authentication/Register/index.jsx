@@ -3,7 +3,7 @@ import { Button, Col, Container, Form, Row } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useHistory } from "react-router-dom";
 import { toast } from "react-toastify";
-import { registerUser } from "../../../redux/actionCreators/authActionCreators";
+import { registerUser } from "../../../redux/actioncreators/authActionCreators";
 
 const Register = () => {
   const [name, setName] = useState("");

@@ -2,8 +2,8 @@ import React, { useEffect } from "react";
 import { Route, Switch } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 
-import Register from "./components/authentication/Register";
-import Login from "./components/authentication/Login";
+import Register from "./components/authendication/Register";
+import Login from "./components/authendication/Login";
 import NavbarComponent from "./components/Navbar";
 import Dashboard from "./components/Dashboard";
 

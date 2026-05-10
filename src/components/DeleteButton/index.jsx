@@ -3,7 +3,7 @@ import { faTrashAlt } from '@fortawesome/free-solid-svg-icons';
 import { Button } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
-import { deleteItems } from '../../redux/actionCreators/filefoldersActionCreators';
+import { deleteItems } from '../../redux/actioncreators/filefoldersActionCreators';
 
 const DeleteButton = ({ currentFolder }) => {
   const dispatch = useDispatch();

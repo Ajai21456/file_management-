@@ -1,4 +1,4 @@
-importance  {
+import {
   faFileImage,
   faFileAlt,
   faFileAudio,

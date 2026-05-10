@@ -3,7 +3,7 @@ import { faArrowLeft, faSave } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Button, Col, Row } from 'react-bootstrap';
 import { useHistory } from 'react-router-dom';
-import { userFileDataUpdate } from '../../../redux/actionCreators/filefoldersActioncreators';
+import { userFileDataUpdate } from '../../../redux/actioncreators/filefoldersActionCreators';
 import { useDispatch } from 'react-redux';
 
 const Header = ({ data, prevData, currentFile, setPrevData, setData }) => {

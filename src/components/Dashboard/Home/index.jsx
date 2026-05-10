@@ -1,4 +1,4 @@
-import {
+importance  {
   faFileImage,
   faFileAlt,
   faFileAudio,
@@ -20,7 +20,7 @@ import {
   deselectItem,
   deselectAll,
   selectFolder,
-} from '../../../redux/actionCreators/filefoldersActionCreators.js';
+} from '../../../redux/actioncreators/filefoldersActionCreators.js';
 import SubNav from '../SubNav.js/index.jsx';
 
 const Home = () => {

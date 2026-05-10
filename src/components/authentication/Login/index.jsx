@@ -3,7 +3,7 @@ import { Button, Col, Container, Form, Row } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useHistory, useLocation } from "react-router-dom";
 import { toast } from "react-toastify";
-import { loginUser } from "../../../redux/actionCreators/authActionCreators";
+import { loginUser } from "../../../redux/actioncreators/authActionCreators";
 
 const Login = () => {
   const [email, setEmail] = useState("");

@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { Button, Form, Modal } from "react-bootstrap";
 import { shallowEqual, useDispatch, useSelector } from "react-redux";
 import { toast } from "react-toastify";
-import { addFolderUser } from "../../redux/actionCreators/filefoldersActionCreators";
+import { addFolderUser } from "../../redux/actioncreators/filefoldersActionCreators";
 
 const CreateFolder = ({ currentFolder }) => {
   const [showModal, setShowModal] = useState(false);

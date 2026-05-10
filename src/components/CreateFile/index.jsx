@@ -4,7 +4,7 @@ import { Button, Form, Modal } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { toast } from "react-toastify";
 import { shallowEqual, useDispatch, useSelector } from "react-redux";
-import { addFileUser } from "../../redux/actionCreators/filefoldersActionCreators";
+import { addFileUser } from "../../redux/actioncreators/filefoldersActionCreators";
 
 const CreateFile = ({ currentFolder }) => {
   const [showModal, setShowModal] = useState(false);

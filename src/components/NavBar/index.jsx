@@ -2,7 +2,7 @@ import React from "react";
 import { Button, Nav, Navbar } from "react-bootstrap";
 import { shallowEqual, useDispatch, useSelector } from "react-redux";
 import { Link, useHistory } from "react-router-dom";
-import { logoutUser } from "../../redux/actionCreators/authActionCreators";
+import { logoutUser } from "../../redux/actioncreators/authActionCreators";
 
 const NavbarComponent = () => {
   const history = useHistory();

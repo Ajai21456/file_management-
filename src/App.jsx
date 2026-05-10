@@ -10,7 +10,7 @@ import Dashboard from "./components/Dashboard";
 import "./App.css";
 
 import { useDispatch, useSelector } from "react-redux";
-import { getUser } from "./redux/actionCreators/authActionCreators";
+import { getUser } from "./redux/actioncreators/authActionCreators";
 
 const App = () => {
   const dispatch = useDispatch();

@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { toast } from "react-toastify";
 import { shallowEqual, useDispatch, useSelector } from "react-redux";
 import { storage } from "../../API/firebase";
-import { addFileUser } from "../../redux/actionCreators/filefoldersActionCreators";
+import { addFileUser } from "../../redux/actioncreators/filefoldersActionCreators";
 
 const UploadFile = ({ currentFolder }) => {
   const [showModal, setShowModal] = useState(false);
